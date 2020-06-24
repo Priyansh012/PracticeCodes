@@ -1,2 +1,2 @@
 # PracticeCodes
-This has few practice codes.
+This has few practice codes of java.
